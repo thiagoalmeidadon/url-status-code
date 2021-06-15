@@ -1,6 +1,6 @@
 # URL status code
 
-Lê uma lista code de URLs do Excel, cria um novo arquivo Excel com o status code de cada requisição.
+Lê uma lista de URLs do Excel, cria um novo arquivo Excel com o status code de cada requisição.
 
 # Dependências 
 ```
